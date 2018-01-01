@@ -4,7 +4,6 @@ using UnityEngine;
 using System.IO;
 
 public class NewBehaviourScript : MonoBehaviour {
-    int a;
 	// Use this for initialization
 	void Start () {
 		
@@ -12,6 +11,5 @@ public class NewBehaviourScript : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-	    FileAttributes
 	}
 }
